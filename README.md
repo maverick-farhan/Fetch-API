@@ -1,5 +1,7 @@
 # Fetch-API
 ---
-(./fetch1.png)
-(./fetch2.png)
+
+![Fetch API ScreenShot](./fetch1.png)
+![Fetch API ScreenShot](./fetch2.png)  
+
 ---
